@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\Bootcamp Java\CalculateAreaAndPerimeter\.metadata\.plugins\org.eclipse.jdt.core
+396741446.index
