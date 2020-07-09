@@ -7,6 +7,7 @@
 
 ## General info
 This project is CalculateAreaAndPerimeter App to  that use to calculate area and perimeter with input and output from console.
+
 Feature :
 1. Calculate Area and perimeter for circle , square , rectangle and triangle.
 2. Calculate Area and perimeter separately.
